@@ -1,0 +1,10 @@
+Name: Dor Wiser
+Email: wiserdor@gmail.com
+
+to start:
+	python cod.py 
+or	python ert.py
+
+Tests: 
+	Test.py is testing the module exrates
+	you can compile it with python Test.py
